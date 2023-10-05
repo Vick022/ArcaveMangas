@@ -15,7 +15,9 @@
 </head>
 <body>
 
-
+<div>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam similique accusantium possimus consectetur doloremque illo, temporibus, architecto, amet ratione et nisi obcaecati ab aliquam in ea unde eum itaque. Modi!</p>
+</div>
 
     <!-- nav bar -->
     <div class="navbar">
